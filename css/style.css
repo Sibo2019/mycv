@@ -1,0 +1,11 @@
+img {
+    height: 300px;
+    width: 400px;
+    border-radius: 250px 250px 250px 250px;
+  }
+  h1{
+    color: rgb(255, 115, 0);
+  }
+  h2{
+    color: grey;
+  }
